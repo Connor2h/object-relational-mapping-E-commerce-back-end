@@ -9,7 +9,7 @@ This project was created to better understand the fundamental architecture of e-
 *Sequelize
 
 ## Website
-Video Link: https://watch.screencastify.com/v/73FjmN4jB89Il3uEcuAP
+Video Link: https://watch.screencastify.com/v/GLRmnlkeefn4eWzyXArI
 
 ## Usage
 ```
@@ -19,7 +19,7 @@ Video Link: https://watch.screencastify.com/v/73FjmN4jB89Il3uEcuAP
 4. Next run "USE ecommerce_db;" to use that database
 5. Next run "SOURCE db/schema.sql;" to source the database
 6. You can now "quit;" mysql
-7. Next go to your terminal and run "npm run seeds" to seed the database with data.
+7. Next go to your terminal and run "npm run seed" to seed the database with data.
 8. Next in your terminal run "npm start" to start the actual server.
 9. Next open your favorite application for interacting with HTTP-based APIs(I used Insomnia)
 10. Test your api end points.(here are what some of your routes could look like)
