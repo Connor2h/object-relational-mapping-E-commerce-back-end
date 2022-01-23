@@ -2,11 +2,11 @@
 This project was created to better understand the fundamental architecture of e-commerce sites by building the back end for an e-commerce site using object relational mapping
 
 ## Built With
-*Javascript
-*NodeJS
-*ExpressJS
-*MySQL2
-*Sequelize
+* Javascript
+* NodeJS
+* ExpressJS
+* MySQL2
+* Sequelize
 
 ## Website
 Video Link: https://watch.screencastify.com/v/GLRmnlkeefn4eWzyXArI
